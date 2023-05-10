@@ -1,0 +1,33 @@
+h1 {
+font-family: Palatino, 'Palatino Linotype', serif;
+color: #FF0000
+
+}
+h2 {
+font-family: Palatino, 'Palatino Linotype', serif;
+color: #0000FF
+
+}
+li {
+font-family: Palatino, 'Palatino Linotype', serif;
+color: rgb(10, 214, 23)
+
+}
+
+
+
+.hero {
+  font-size: 60px;
+
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  color: rgb(27, 201, 228)
+    
+
+
+}
+
+.hero {
+  background-image: url("https://federationofbirchia.weebly.com/uploads/1/0/6/2/106235821/federation-of-birchia_13.png");
+  background-size: cover;
+}
+
